@@ -1,0 +1,51 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio generated files and folders
+.idea/
+.gradle
+local.properties
+*.iml
+*.iws
+*.ipr
+
+# The .classpath, .project, and .settings files are Eclipse generated files
+# which you should never be forced to edit (as the "Java Builder" could
+# change any of them). Exporting again from Eclipse should create the
+# same files. Converting to Git should be safe as long as you follow
+# Eclipse's processes.
+.classpath
+.cproject
+.project
+.pydevproject
+.settings/
+
+# Node, Venv, Pex etc
+node_modules/
+.venv
+env/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Fastlane
+fastlane/report.xml
+
+# API keys and secrets
+secrets.properties
