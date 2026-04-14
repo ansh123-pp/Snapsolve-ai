@@ -29,7 +29,6 @@ A basic Android WebView app with AdMob integration for displaying web content wi
 - Gradle 8.4+
 
 ## Setup Instructions
-
 ### 1. Clone the Repository
 
 ```bash
